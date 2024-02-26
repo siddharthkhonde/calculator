@@ -4,20 +4,20 @@ This is a practice project that showcases a Simple Calculator written in WebAsse
 
 # Following is the Demo:
 
-<your-project-directory>$ wat2wasm calculator.wat
+$ wat2wasm calculator.wat
 
-<your-project-directory>$ wasmtime calculator.wasm --invoke add 10 5
+$ wasmtime calculator.wasm --invoke add 10 5
 
 15
 
-<your-project-directory>$ wasmtime calculator.wasm --invoke sub 10 5
+$ wasmtime calculator.wasm --invoke sub 10 5
 
 5
 
-<your-project-directory>$ wasmtime calculator.wasm --invoke mul 10 5
+$ wasmtime calculator.wasm --invoke mul 10 5
 
 50
 
-<your-project-directory>$ wasmtime calculator.wasm --invoke div 10 5
+$ wasmtime calculator.wasm --invoke div 10 5
 
 2
