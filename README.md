@@ -2,7 +2,7 @@
 
 This is a practice project that showcases a Simple Calculator written in WebAssembly Text Format (WAT). The complied binary is run using **wasmtime** - A fast a secure runtime for WebAssembly.
 
-# Following is the Demo:
+# Demo:
 
 $ wat2wasm calculator.wat
 
