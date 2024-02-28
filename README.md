@@ -1,8 +1,8 @@
-## A Simple 32-bit Calculator Using WebAssembly
+# A Simple 32-bit Calculator Using WebAssembly
 
 This is a practice project that showcases a Simple Calculator written in WebAssembly Text Format (WAT). The complied binary is run using **wasmtime** - A fast a secure runtime for WebAssembly.
 
-# Demo:
+## Demo:
 
 $ wat2wasm calculator.wat
 
